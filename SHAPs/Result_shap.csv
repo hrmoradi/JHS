@@ -1,0 +1,180 @@
+,values,label,color,color_label
+weeklystress,4.928869894811592e-05,Weekly stress score (weeklystress),3.0,Standard
+waist,-0.000569599547907158,Waist (waist),0.0,Psychosocial
+vopca_uebe,-0.0005747895798836172,Age & gender adjusted Unconditional Empirical Bayes Estimate (UEBE) for Violence PCA-based (vopca_uebe),2.0,Environmental
+vehicle_none,-0.00013253520359084867,% Household w/no vehicle (vehicle_none),2.0,Environmental
+unemployed,0.0001513396462952758,% unemployed (unemployed),2.0,Environmental
+trigs,-0.0001231048023449688,Triglycerides (trigs),3.0,Standard
+totchol,-0.0013681020973876086,Total cholesterol (totchol),3.0,Standard
+sex,0.014433448396361544,Sex (sex),0.0,Psychosocial
+scpca_uebe,1.6049457674266113e-06,Age & gender adjusted Unconditional Empirical Bayes Estimate (UEBE) for Social Cohesion PCA-based (scpca_uebe),2.0,Environmental
+sbp,0.0014825674947914322,Systolic blood pressure (sbp),3.0,Standard
+samehouse,0.0003818592024431998,% in same house (samehouse),2.0,Environmental
+s3walk,0.00027739547819324823,3 mile simple WALKING (s3walk),2.0,Environmental
+s3unfavfo,0.00043789489702189473,3 mile simple UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (s3unfavfo),2.0,Environmental
+s3unfav,0.0005710063566906696,3 mile simple UNFAVORABLE FOOD STORES (s3unfav),2.0,Environmental
+s3totstr,-0.0007433464834569515,3 mile simple TOTAL STORES (s3totstr),2.0,Environmental
+s3totfood,-0.0009195580322854431,3 mile simple TOTAL FOOD STORES (s3totfood),2.0,Environmental
+s3soc,-7.322101372578617e-05,3 mile simple SOCIAL ENGAGEMENT (s3soc),2.0,Environmental
+s3pai,-0.0005626186677480441,3 mile simple TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (s3pai),2.0,Environmental
+s3opai,-0.0004982946139095196,3 mile simple OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (s3opai),2.0,Environmental
+s3mrfei_tot,-0.0006896240159870471,3 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (s3mrfei_tot),2.0,Environmental
+s3mrfei_noalc,-0.00023502653459244396,3 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (s3mrfei_noalc),2.0,Environmental
+s3ipai,-0.00021265356632205068,3 mile simple INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (s3ipai),2.0,Environmental
+s3fav,0.0001808430850131191,3 mile simple FAVORABLE FOOD STORES (s3fav),2.0,Environmental
+s1walk,0.00023641042589305644,1 mile simple WALKING (s1walk),2.0,Environmental
+s1unfavfo,-0.0006918454444506489,1 mile simple UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (s1unfavfo),2.0,Environmental
+s1unfav,0.001073312691043677,1 mile simple UNFAVORABLE FOOD STORES (s1unfav),2.0,Environmental
+s1totstr,-0.001531830895196299,1 mile simple TOTAL STORES (s1totstr),2.0,Environmental
+s1totfood,1.64878951509358e-05,1 mile simple TOTAL FOOD STORES (s1totfood),2.0,Environmental
+s1soc,-0.001449831039209269,1 mile simple SOCIAL ENGAGEMENT (s1soc),2.0,Environmental
+s1pai,-0.0001645782558116303,1 mile simple TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (s1pai),2.0,Environmental
+s1opai,-0.00019916139018307487,1 mile simple OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (s1opai),2.0,Environmental
+s1mrfei_tot,1.528974407667787e-05,1 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (s1mrfei_tot),2.0,Environmental
+s1mrfei_noalc,-0.0010267531357019961,1 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (s1mrfei_noalc),2.0,Environmental
+s1ipai,-6.709399455994517e-05,1 mile simple INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (s1ipai),2.0,Environmental
+s1fav,0.0019284341003653457,1 mile simple FAVORABLE FOOD STORES (s1fav),2.0,Environmental
+s0walk,9.770111884930218e-05,1/2 mile simple WALKING (s0walk),2.0,Environmental
+s0unfavfo,-0.0007809174488804223,1/2 mile simple UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (s0unfavfo),2.0,Environmental
+s0unfav,5.211189387880203e-05,1/2 mile simple UNFAVORABLE FOOD STORES (s0unfav),2.0,Environmental
+s0totstr,0.0011419711083678762,1/2 mile simple TOTAL STORES (s0totstr),2.0,Environmental
+s0totfood,0.0005572222902404722,1/2 mile simple TOTAL FOOD STORES (s0totfood),2.0,Environmental
+s0soc,7.769457336181002e-05,1/2 mile simple SOCIAL ENGAGEMENT (s0soc),2.0,Environmental
+s0pai,0.0005313760025568446,1/2 mile simple TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (s0pai),2.0,Environmental
+s0opai,-0.0015070345244825264,1/2 mile simple OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (s0opai),2.0,Environmental
+s0mrfei_tot,-0.0014291231048074366,1/2 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (s0mrfei_tot),2.0,Environmental
+s0mrfei_noalc,0.0002082949328570013,1/2 mile simple MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (s0mrfei_noalc),2.0,Environmental
+s0ipai,-0.0004877146589430713,1/2 mile simple INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (s0ipai),2.0,Environmental
+s0fav,-0.0003888652294170274,1/2 mile simple FAVORABLE FOOD STORES (s0fav),2.0,Environmental
+race_whitenh,0.0003897627472077938,% white non-hispanic (race_whitenh),2.0,Environmental
+race_othernh,-0.0005424509368508666,% other non-hispanic (race_othernh),2.0,Environmental
+race_hisp,-0.0008148744650328465,% hispanic (race_hisp),2.0,Environmental
+race_blacknh,-0.0011456333897370042,% black non-hispanic (race_blacknh),2.0,Environmental
+race_asiannh,-4.5500562173319935e-05,% asian non-hispanic (race_asiannh),2.0,Environmental
+privatepublicins_3,0.012329433767260941,Insurance status - Private & Public (privatepublicins_3),0.0,Psychosocial
+privatepublicins_2,0.014137887027414527,Insurance status - Public Only (privatepublicins_2),0.0,Psychosocial
+privatepublicins_1,0.006370863561647874,Insurance status - Private Only (privatepublicins_1),0.0,Psychosocial
+privatepublicins_0,-0.024729093610428885,Insurance status - Uninsured (privatepublicins_0),0.0,Psychosocial
+pret14,0.0006196428031681517,Percent Retail 1/4 mile (pret14),2.0,Environmental
+pret1,0.003260305203085646,Percent Retail 1 mile (pret1),2.0,Environmental
+pret0,-0.0018860221180125047,Percent Retail 1/2 mile (pret0),2.0,Environmental
+pres14,0.0001536277064372727,Percent Residential 1/4 mile (pres14),2.0,Environmental
+pres1,-6.112197954878063e-06,Percent Residential 1 mile (pres1),2.0,Environmental
+pres0,-0.0019157118793962024,Percent Residential 1/2 mile (pres0),2.0,Environmental
+pov,-8.531678440430069e-05,% below poverty (pov),2.0,Environmental
+popdenmi14,1.3995073152316738e-05,Population density per sq mile 1/4 mile (popdenmi14),2.0,Environmental
+popdenmi1,-0.0003872013898967573,Population density per sq mile 1 mile (popdenmi1),2.0,Environmental
+popdenmi0,-0.0020696412713657594,Population density per sq mile 1/2 mile (popdenmi0),2.0,Environmental
+popdenkm14,9.581382385423208e-05,Population density per sq km 1/4 mile (popdenkm14),2.0,Environmental
+popdenkm1,-0.0010342602582878594,Population density per sq km 1 mile (popdenkm1),2.0,Environmental
+popdenkm0,-0.0009184728261202884,Population density per sq km 1/2 mile (popdenkm0),2.0,Environmental
+popden_tot,-5.2894277316174844e-05,population density including land+water (per km square) (popden_tot),2.0,Environmental
+phone_none,-0.0003020600411193525,% Household w/no telephone (phone_none),2.0,Environmental
+perceivedstress,0.00020539531803288712,Global Stress Score (perceivedstress),3.0,Standard
+pctlu14,-0.0010499204328309028,Percent of 1/4 mile buffer in land use data (pctlu14),2.0,Environmental
+pctlu1,0.0013864561659165824,Percent of 1 mile buffer in land use data (pctlu1),2.0,Environmental
+pctlu0,-0.00021863615823892652,Percent of 1/2 mile buffer in land use data (pctlu0),2.0,Environmental
+pcom14,0.0003235712028638808,Percent Commercial 1/4 mile (pcom14),2.0,Environmental
+pcom1,-0.00044461050005564816,Percent Commercial 1 mile (pcom1),2.0,Environmental
+pcom0,0.00047418976774060446,Percent Commercial 1/2 mile (pcom0),2.0,Environmental
+pa3cat,0.00010786605116402018,Physical Activity (pa3cat),3.0,Standard
+ownerocc_hh,-0.00032189005243806373,% Household owner occupied (ownerocc_hh),2.0,Environmental
+occupation_9.0,-0.0008882648532752016,occupation - Unemployed (occupation_9.0),0.0,Psychosocial
+occupation_8.0,-0.00019042426277479286,occupation - Sick (occupation_8.0),0.0,Psychosocial
+occupation_7.0,-0.0007380090921389523,occupation - Military (occupation_7.0),0.0,Psychosocial
+occupation_6.0,0.0021742862327905252,occupation - Production (occupation_6.0),0.0,Psychosocial
+occupation_5.0,0.001786978102815765,occupation - Construction (occupation_5.0),0.0,Psychosocial
+occupation_4.0,0.0003170148136415518,occupation - Farming (occupation_4.0),0.0,Psychosocial
+occupation_3.0,0.000982931158950317,occupation - Sales (occupation_3.0),0.0,Psychosocial
+occupation_2.0,-0.0003829072339989098,occupation - Service (occupation_2.0),0.0,Psychosocial
+occupation_12.0,0.0006635148642914008,occupation - Student (occupation_12.0),0.0,Psychosocial
+occupation_11.0,-0.00013859863271117659,occupation - Retired (occupation_11.0),0.0,Psychosocial
+occupation_1.0,-0.0017972884535786202,occupation - Management/Professional (occupation_1.0),0.0,Psychosocial
+occup_i,-0.0007424036902136963,% managerial occupation (occup_i),2.0,Environmental
+nutrition3cat,0.0015268455331181041,Nutrition Categorization (nutrition3cat),3.0,Standard
+nppca_uebe,-0.00020394747785705807,Age & gender adjusted Unconditional Empirical Bayes Estimate (UEBE) for NB Problem PCA-based (nppca_uebe),2.0,Environmental
+notinlaborforce,-0.0007182014310321395,% not in labor force (notinlaborforce),2.0,Environmental
+netratio14,0.0009753157062053466,Network Ratio 1/4 mile (netratio14),2.0,Environmental
+netratio1,-0.00013540503914784077,Network Ratio 1 mile (netratio1),2.0,Environmental
+netratio0,-0.0012413725307849808,Network Ratio 1/2 mile (netratio0),2.0,Environmental
+lifetimediscrm,-0.0005171927805746901,Lifetime discrimination (lifetimediscrm),0.0,Psychosocial
+ldl,-0.0005967971266400927,LDL cholesterol (ldl),3.0,Standard
+k3walk,0.0006532925310339447,3 mile kernel WALKING (k3walk),2.0,Environmental
+k3unfavfo,-0.0014537766307076512,3 mile kernel UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (k3unfavfo),2.0,Environmental
+k3unfav,-0.0011870335172692668,3 mile kernel UNFAVORABLE FOOD STORES (k3unfav),2.0,Environmental
+k3totstr,0.0003003771919641182,3 mile kernel TOTAL STORES (k3totstr),2.0,Environmental
+k3totfood,-0.0007970046508475045,3 mile kernel TOTAL FOOD STORES (k3totfood),2.0,Environmental
+k3soc,5.20043324506236e-05,3 mile kernel SOCIAL ENGAGEMENT (k3soc),2.0,Environmental
+k3pai,-0.0004879566948480906,3 mile kernel TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (k3pai),2.0,Environmental
+k3opai,1.8403523345403028e-05,3 mile kernel OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (k3opai),2.0,Environmental
+k3mrfei_tot,0.0004978177291043188,3 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (k3mrfei_tot),2.0,Environmental
+k3mrfei_noalc,0.0005967583115073922,3 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (k3mrfei_noalc),2.0,Environmental
+k3ipai,-0.0007642080912823735,3 mile kernel INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (k3ipai),2.0,Environmental
+k3fav,-9.458072772482396e-06,3 mile kernel FAVORABLE FOOD STORES (k3fav),2.0,Environmental
+k1walk,-0.0003407198788214167,1 mile kernel WALKING (k1walk),2.0,Environmental
+k1unfavfo,-0.00056031175250072,1 mile kernel UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (k1unfavfo),2.0,Environmental
+k1unfav,0.00021693522821369316,1 mile kernel UNFAVORABLE FOOD STORES (k1unfav),2.0,Environmental
+k1totstr,0.0015182167217392016,1 mile kernel TOTAL STORES (k1totstr),2.0,Environmental
+k1totfood,-0.0010401892675254527,1 mile kernel TOTAL FOOD STORES (k1totfood),2.0,Environmental
+k1soc,-0.0001338558837204207,1 mile kernel SOCIAL ENGAGEMENT (k1soc),2.0,Environmental
+k1pai,0.0007623070126331763,1 mile kernel TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (k1pai),2.0,Environmental
+k1opai,0.00014946082362564338,1 mile kernel OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (k1opai),2.0,Environmental
+k1mrfei_tot,-0.0014887746543181697,1 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (k1mrfei_tot),2.0,Environmental
+k1mrfei_noalc,-0.001269169150403095,1 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (k1mrfei_noalc),2.0,Environmental
+k1ipai,0.00010872921881423279,1 mile kernel INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (k1ipai),2.0,Environmental
+k1fav,8.707039346116479e-05,1 mile kernel FAVORABLE FOOD STORES (k1fav),2.0,Environmental
+k0walk,0.0005483824703258902,1/2 mile kernel WALKING (k0walk),2.0,Environmental
+k0unfavfo,0.0010326268805912248,1/2 mile kernel UNFAVORABLE FOOD STORES EXCLUDING ALCOHOL (k0unfavfo),2.0,Environmental
+k0unfav,-0.00020601122532128363,1/2 mile kernel UNFAVORABLE FOOD STORES (k0unfav),2.0,Environmental
+k0totstr,-0.0007734705582222729,1/2 mile kernel TOTAL STORES (k0totstr),2.0,Environmental
+k0totfood,0.00010270385236582057,1/2 mile kernel TOTAL FOOD STORES (k0totfood),2.0,Environmental
+k0soc,0.0006783878779519136,1/2 mile kernel SOCIAL ENGAGEMENT (k0soc),2.0,Environmental
+k0pai,-0.00030313633894019467,1/2 mile kernel TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+INSTRUCTIONAL+WATER (k0pai),2.0,Environmental
+k0opai,-0.0008135706149257271,1/2 mile kernel OUTDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL+WATER (k0opai),2.0,Environmental
+k0mrfei_tot,-0.003457693691945499,1/2 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX INCLUDE ALCOHOL (k0mrfei_tot),2.0,Environmental
+k0mrfei_noalc,-0.0009049725193703417,1/2 mile kernel MODIFIED RETAIL FOOD ENVIRONMENT INDEX EXCLUDE ALCOHOL (k0mrfei_noalc),2.0,Environmental
+k0ipai,1.753540738541278e-05,1/2 mile kernel INDOOR TOTAL PHYSICAL ACTIVITIES+INSTRUCTIONAL (k0ipai),2.0,Environmental
+k0fav,-0.00016075015868296288,1/2 mile kernel FAVORABLE FOOD STORES (k0fav),2.0,Environmental
+intcnt14,-6.616897511122008e-05,Number of intersections in 1/4 mile buffer (intcnt14),2.0,Environmental
+intcnt1,-0.00026587631086000745,Number of intersections in 1 mile buffer (intcnt1),2.0,Environmental
+intcnt0,-0.0008181502754256226,Number of intersections in 1/2 mile buffer (intcnt0),2.0,Environmental
+insured,-0.011894305783649119,Insured (insured),0.0,Psychosocial
+inlucounty,-0.0026206027721359833,Falls within county boundaries for land use data (0=outside; 1=within) (inlucounty),2.0,Environmental
+inc_pubass,-9.330904853805733e-05,% with public assistance (inc_pubass),2.0,Environmental
+inc_medhh,-0.0002723077270007426,Median Household income (inc_medhh),2.0,Environmental
+inc_intdivrent,-0.0010143712333630331,"% Household with interest, dividend, rental income (inc_intdivrent)",2.0,Environmental
+inc_hhge50k,-0.0006254361302531733,"% Household w/income >= $50,000 (inc_hhge50k)",2.0,Environmental
+hucost_medownval,9.392294824097794e-05,Median owner Household cost (hucost_medownval),2.0,Environmental
+hu_sampleocc,0.0007134753711141346,% Household occupied (hu_sampleocc),2.0,Environmental
+hdl,0.0005353893617787115,HDL cholesterol (hdl),3.0,Standard
+hba1c,0.0036032540933370895,Hemoglobin A1C (hba1c),3.0,Standard
+fpg,0.000483482186664056,Fasting glucose (fpg),3.0,Standard
+fmlyinc,-0.0003238557685363661,Family income (fmlyinc),0.0,Psychosocial
+fakecensustractid,-0.0021231420825987843,Fake census tract ID (fakecensustractid),2.0,Environmental
+factor_ana,-0.0003607368943341897,Factor score based on Ana Diez-Roux 1990 PC factor analysis (factor_ana),2.0,Environmental
+f4_pc2,-0.0011153026447195391,SES (PC2) Weighted Factor4 score (f4_pc2),2.0,Environmental
+f3_pc2,-0.001404521232567833,SES (PC2) Weighted Factor3 score (f3_pc2),2.0,Environmental
+f2_pc2_bt,0.000267367443075781,Factor2 based score w/transformed vars for SES (PC2) (f2_pc2_bt),2.0,Environmental
+f2_pc2,-0.0010652029345209735,SES (PC2) Weighted Factor2 score (f2_pc2),2.0,Environmental
+f1_pc2_bt,0.0004591278071402428,Factor1 based score w/transformed vars for SES (PC2) (f1_pc2_bt),2.0,Environmental
+f1_pc2,-1.680442907746833e-05,SES (PC2) Weighted Factor1 score (f1_pc2),2.0,Environmental
+eversmoker,0.011278213569713971,History of Cigarette Smoking (eversmoker),3.0,Standard
+educ_minhs,-0.0013259669793187206,% 25+ with minimum High School education (educ_minhs),2.0,Environmental
+educ_minba,0.0005238512369549958,% 25+ with minimum bachelor degree (educ_minba),2.0,Environmental
+edu3cat_2,0.00281529478182825,Education - attended vocational or colledge (edu3cat_2),0.0,Psychosocial
+edu3cat_1,-0.006018462962443156,Education - LHigh school graduate/GED (edu3cat_1),0.0,Psychosocial
+edu3cat_0,0.005471858248407368,Education - Less thank high school (edu3cat_0),0.0,Psychosocial
+discrmburden,-0.000810271828624173,Discrimination burden (discrmburden),0.0,Psychosocial
+depression,-0.00040483559278583917,Depressive Symptoms Score (depression),3.0,Standard
+dbp,0.0002895885673514349,Diastolic blood pressure (dbp),3.0,Standard
+dailydiscr,-0.0001139956766920094,Daily discrimination (dailydiscr),0.0,Psychosocial
+currentsmoker,0.001178216993756709,Cigarette Smoking Status (currentsmoker),3.0,Standard
+crowd_gt1_ppr,9.575919911810411e-06,% Household with crowding > 1 person per room (crowd_gt1_ppr),2.0,Environmental
+bpmeds,0.009115108764362107,Blood pressure medication status (bpmeds),3.0,Standard
+bmi,0.00029779314779689167,BMI (bmi),0.0,Psychosocial
+birth_foreign,-0.0006996663768421412,% foreign born (birth_foreign),2.0,Environmental
+alcw,-5.470157550209596e-05,Average number of drinks per week (alcw),3.0,Standard
+alc,-0.0020026144575045913,Alcohol drinking in the past 12 months (alc),3.0,Standard
+age,-0.004599466386727777,Age (age),0.0,Psychosocial
+activeindex,0.0007840149061908423,Physical activity during leisure time (activeindex),3.0,Standard
+abi,2.4634583635345417e-05,Ankle brachial index (abi),3.0,Standard
