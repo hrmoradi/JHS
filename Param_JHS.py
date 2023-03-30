@@ -57,12 +57,12 @@ incident_long_after = False
 name = "DataSet_"+with_hf+"HF-" +str(max_incident_years)+'y-impRf'+str(impute_rf)+'-RowThreshold'+str(individual_miss_threshold)+"-ColSpec"+str(len(sub_set_column_to_drop_rows))
 
 # ToDo: File locations ##############################################################################################
-dataLocation = "C:\\Users\\hrmor\\OneDrive - University of Mississippi Medical Center\\04_Projects\\Proj__Matthew\\JHS data (Moradi-Morris)\\"
+dataLocation = "C:\\Users\\hrmor\\OneDrive - University of Mississippi Medical Center\\03_Projects\\Proj__Matthew\\JHS data (Moradi-Morris)\\"
 resultsLocation =""
 if platform.system() != 'Windows':
     dataLocation = "/home/hmoradi/Downloads/Data/JHS/"
     resultsLocation = "/home/hmoradi/Downloads/PycharmProject/JacksonHeart/Results/"
-logFile = open(dataLocation+'Result_Logfile.txt', 'w')
+logFile = open(dataLocation+'Result_Logfile.txt', 'a')
 # ToDo: features ####################################################################################################3#
 main_features =         ["age","waist","BMI","sex",
                       "sbp","dbp","abi","ldl","hdl","trigs","FPG","HbA1c",
